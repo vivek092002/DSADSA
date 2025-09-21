@@ -43,5 +43,5 @@ public class unionOfTwoSortedArrays {
     }
 
     //optimised approach
-    
+
 }
