@@ -26,7 +26,7 @@ public class insertAtHead {
     }
 
     public static Node insertHead(Node head, int data){
-        Node temp = new Node(data);
+        Node temp = new Node(data, head);
         temp.next = head;
         return head;
     }
